@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Wilson",
+    "age": 2,
+    "address": {
+        "street": "Moore Isle",
+        "city": "Porterland",
+        "state": "Delaware",
+        "zip": "04693"
+    },
+    "contact": {
+        "phone": "445.855.3747",
+        "servicePhone": "800279314"
+    },
+    "birthday": "2023-11-11",
+    "ip": "82.98.186.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital force pattern early.\nGlass teach could base approach serve. Eye best develop knowledge around ability her market. Discuss see few develop. Present democratic floor little.",
+        "bio": "None whom capital former matter wonder state.\nAge candidate purpose his stuff interest. Station success drug doctor reflect. Address analysis entire whether."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
