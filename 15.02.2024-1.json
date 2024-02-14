@@ -1,0 +1,25 @@
+{
+    "name": "Justin Klein",
+    "age": 62,
+    "address": {
+        "street": "Reese Crest",
+        "city": "Lake Michael",
+        "state": "Oregon",
+        "zip": "18798"
+    },
+    "contact": {
+        "phone": "298.466.5486",
+        "servicePhone": "800139837"
+    },
+    "birthday": "1963-23-04",
+    "ip": "105.46.171.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough amount exist believe politics. By general lawyer then baby machine six.\nType understand buy eight window. Hour now challenge value.\nMention current like.",
+        "bio": "Old standard outside management standard. Open make seat computer item.\nLast dinner office. Discussion nothing personal again page. Policy marriage career fund item."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
