@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Savage",
+    "age": 56,
+    "address": {
+        "street": "Keith Street",
+        "city": "Wellsside",
+        "state": "Oklahoma",
+        "zip": "23643"
+    },
+    "contact": {
+        "phone": "965-744-6546x6086",
+        "servicePhone": "800978187"
+    },
+    "birthday": "1969-09-07",
+    "ip": "105.165.139.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence against none compare single would. Development begin trade put action chance health.\nShare school affect join husband art full. Fast such down.",
+        "bio": "Sell report individual. Government task staff where ok draw budget. Page care itself choose thank.\nDiscussion there avoid young eye. Side get project partner human."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
