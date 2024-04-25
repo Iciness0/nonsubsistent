@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Barrett",
+    "age": 55,
+    "address": {
+        "street": "Joseph Bridge",
+        "city": "Nathanielfurt",
+        "state": "Delaware",
+        "zip": "70859"
+    },
+    "contact": {
+        "phone": "(682)462-6313x468",
+        "servicePhone": "800046233"
+    },
+    "birthday": "1970-16-11",
+    "ip": "203.57.169.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation reflect sing outside civil. Who probably Republican hot.\nLocal west buy center listen. Each point environmental. After today argue might time experience.",
+        "bio": "Off fund environment unit. Together true simple figure gun likely down create.\nBest ground student support speech. Effort area beyond walk."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
