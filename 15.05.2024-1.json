@@ -1,0 +1,25 @@
+{
+    "name": "Robin Garcia MD",
+    "age": 79,
+    "address": {
+        "street": "Brett Land",
+        "city": "Lake Rebeccaborough",
+        "state": "Washington",
+        "zip": "38298"
+    },
+    "contact": {
+        "phone": "(645)725-0329",
+        "servicePhone": "800237128"
+    },
+    "birthday": "1946-25-12",
+    "ip": "87.101.18.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Place compare hundred pay Mr civil. Peace government modern decade relationship night develop.",
+        "bio": "History dog similar almost body level them. Test serve street body note necessary.\nRise cell discussion phone. Leg government that free rate. However would food into."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
