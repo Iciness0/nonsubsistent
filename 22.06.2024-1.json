@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Lee",
+    "age": 16,
+    "address": {
+        "street": "Edwards Summit",
+        "city": "West Charleshaven",
+        "state": "Delaware",
+        "zip": "03390"
+    },
+    "contact": {
+        "phone": "+1-961-411-8376x51994",
+        "servicePhone": "800935416"
+    },
+    "birthday": "2009-23-12",
+    "ip": "119.223.103.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic write talk nearly gun.\nFew southern action evening election most human site. Both money cause then. Tough figure movement position. Current not gun some.",
+        "bio": "Best treatment discuss watch teach really design. Affect figure front investment bank. Little challenge either data score boy building."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
