@@ -1,0 +1,25 @@
+{
+    "name": "Holly Mccullough",
+    "age": 44,
+    "address": {
+        "street": "Lane Creek",
+        "city": "South Roger",
+        "state": "New York",
+        "zip": "97718"
+    },
+    "contact": {
+        "phone": "(623)373-9320x0552",
+        "servicePhone": "800975869"
+    },
+    "birthday": "1981-28-11",
+    "ip": "1.118.36.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity by recently crime level finally. Easy early candidate decision ago occur western thus. Take soon kind field. Behind maybe bill expect sport add.",
+        "bio": "Ever own decide. Young address simply year miss.\nMarriage price model condition seat seven that. Claim political stock argue physical industry dark."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
