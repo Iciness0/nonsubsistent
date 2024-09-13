@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Joseph",
+    "age": 56,
+    "address": {
+        "street": "Jose Plaza",
+        "city": "New Juanhaven",
+        "state": "Missouri",
+        "zip": "94716"
+    },
+    "contact": {
+        "phone": "001-908-482-8435x5063",
+        "servicePhone": "800257945"
+    },
+    "birthday": "1969-29-03",
+    "ip": "29.36.74.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Trouble behavior truth plant there sort with. Central couple establish our toward nature contain.\nHour find eight collection manager. Carry visit third. Now either dark data thus act.",
+        "bio": "Between month indeed subject finish provide say. Relate push necessary clear important their evening."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
