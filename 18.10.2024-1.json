@@ -1,0 +1,25 @@
+{
+    "name": "Michael Berg",
+    "age": 86,
+    "address": {
+        "street": "Dana Knolls",
+        "city": "Bergville",
+        "state": "Alaska",
+        "zip": "95187"
+    },
+    "contact": {
+        "phone": "(641)788-3436x677",
+        "servicePhone": "800694770"
+    },
+    "birthday": "1939-12-05",
+    "ip": "117.215.151.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong car health suggest high fall. House say class big whom worry. World director sport today figure rich.",
+        "bio": "Already detail force reality speak step.\nUse agreement arrive popular foot realize leave. Movement industry hair talk save.\nProject animal theory structure heavy size. Treatment think long north."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
