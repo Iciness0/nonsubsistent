@@ -1,0 +1,25 @@
+{
+    "name": "Molly Hess DDS",
+    "age": 1,
+    "address": {
+        "street": "Griffin Forges",
+        "city": "Davisborough",
+        "state": "Virginia",
+        "zip": "38064"
+    },
+    "contact": {
+        "phone": "790-264-1411x033",
+        "servicePhone": "800829188"
+    },
+    "birthday": "2024-29-12",
+    "ip": "36.209.207.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Its book ready moment. Out toward many Democrat new.\nDecide somebody moment company more true. Ok company conference find himself protect. Write win nice professor our fish.",
+        "bio": "Father meeting whom never. Hope I south believe. Price attorney thus animal imagine if stand. Clearly effort moment majority crime explain serve.\nRule team series me man other."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
