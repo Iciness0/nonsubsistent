@@ -1,0 +1,25 @@
+{
+    "name": "Randy Boyd",
+    "age": 30,
+    "address": {
+        "street": "Thomas Mills",
+        "city": "Port Karenport",
+        "state": "West Virginia",
+        "zip": "80449"
+    },
+    "contact": {
+        "phone": "905.683.2905",
+        "servicePhone": "800033420"
+    },
+    "birthday": "1995-18-10",
+    "ip": "38.80.116.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit focus onto read change choose my. Region individual attention action. Themselves our purpose owner already story.",
+        "bio": "Meet church here become wish set. Letter artist later anyone.\nCrime much produce different media. Wife senior quality bar source exactly prepare wife. High such keep several possible skill student."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
