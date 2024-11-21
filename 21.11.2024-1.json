@@ -1,0 +1,25 @@
+{
+    "name": "Terry Stewart",
+    "age": 25,
+    "address": {
+        "street": "Chavez Fords",
+        "city": "Lake Amy",
+        "state": "Mississippi",
+        "zip": "86436"
+    },
+    "contact": {
+        "phone": "357-376-6266x5483",
+        "servicePhone": "800560942"
+    },
+    "birthday": "2000-10-08",
+    "ip": "90.10.2.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog method central lot management shake. Able art check especially answer.\nComputer series new. Garden pass yeah great star either.",
+        "bio": "Something end eye. Themselves evening soon everybody care page.\nConsumer society finish ready author economy people. Work throughout performance. Agency body sense back."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
