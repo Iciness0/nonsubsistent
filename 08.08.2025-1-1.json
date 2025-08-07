@@ -1,0 +1,25 @@
+{
+    "name": "John Vaughn",
+    "age": 112,
+    "address": {
+        "street": "Joyce Isle",
+        "city": "Kevinland",
+        "state": "Texas",
+        "zip": "34010"
+    },
+    "contact": {
+        "phone": "(899)466-3064",
+        "servicePhone": "800290016"
+    },
+    "birthday": "1913-19-08",
+    "ip": "19.43.213.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech indeed summer such research piece small. Glass standard Republican stuff main know. Them soldier material season new plant wish. Yourself lawyer picture time Democrat bed.",
+        "bio": "Whether suddenly at world. Compare effort pick interview east claim woman.\nHot possible skin system ago. North somebody scientist bag clear."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
