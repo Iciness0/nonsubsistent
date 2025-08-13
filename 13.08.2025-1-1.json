@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Harding",
+    "age": 57,
+    "address": {
+        "street": "Karen Street",
+        "city": "West Tracy",
+        "state": "Ohio",
+        "zip": "77351"
+    },
+    "contact": {
+        "phone": "706.308.1746",
+        "servicePhone": "800637828"
+    },
+    "birthday": "1968-28-02",
+    "ip": "56.255.50.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent crime measure current question. Suddenly on better base summer. Nice computer I establish. International staff may purpose edge speech.",
+        "bio": "Between rather find. Might too fine.\nMake statement boy traditional exactly prevent. Style church some speech customer me rich effort. Animal series there focus environmental best technology."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
