@@ -1,0 +1,25 @@
+{
+    "name": "Shane Sanchez",
+    "age": 1,
+    "address": {
+        "street": "Dennis Lodge",
+        "city": "Moorechester",
+        "state": "California",
+        "zip": "71181"
+    },
+    "contact": {
+        "phone": "3316074585",
+        "servicePhone": "800440335"
+    },
+    "birthday": "2024-13-06",
+    "ip": "65.240.224.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind onto education still. Move peace oil process young assume a.\nCapital style they gas music director than. Similar hospital range us project card might.",
+        "bio": "But dark arrive democratic let. Brother scientist way writer school.\nParent send bad him such before. Break article sea their score by each size. Another home resource population begin wind building."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

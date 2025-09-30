@@ -1,0 +1,25 @@
+{
+    "name": "Craig Stokes",
+    "age": 110,
+    "address": {
+        "street": "Gentry Ranch",
+        "city": "Edwardton",
+        "state": "South Dakota",
+        "zip": "63278"
+    },
+    "contact": {
+        "phone": "(963)925-6884x51428",
+        "servicePhone": "800708848"
+    },
+    "birthday": "1915-03-09",
+    "ip": "130.54.243.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Dinner help history method. Maybe administration join consumer leg.\nEvening resource wonder tax. Unit letter various moment happen. Program measure president school money.",
+        "bio": "List marriage into. Heart capital particularly this."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
