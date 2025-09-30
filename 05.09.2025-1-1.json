@@ -1,0 +1,25 @@
+{
+    "name": "Brian Martinez",
+    "age": 99,
+    "address": {
+        "street": "Miller Flats",
+        "city": "Gatesfurt",
+        "state": "California",
+        "zip": "35732"
+    },
+    "contact": {
+        "phone": "903.711.4226x52600",
+        "servicePhone": "800511533"
+    },
+    "birthday": "1926-24-07",
+    "ip": "140.156.132.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Their unit evidence hard treatment natural. Relationship difficult maintain wife. Environmental people wait appear significant would.\nCulture direction artist yeah. Group rise animal recent seek.",
+        "bio": "Seat outside page purpose. Again need door position common chair.\nWorry able about. Stand gas strong."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
