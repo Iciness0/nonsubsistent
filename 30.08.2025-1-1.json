@@ -1,0 +1,25 @@
+{
+    "name": "Justin Thompson",
+    "age": 28,
+    "address": {
+        "street": "Moore Mountain",
+        "city": "North Jeffreyberg",
+        "state": "Tennessee",
+        "zip": "76162"
+    },
+    "contact": {
+        "phone": "(766)953-1710",
+        "servicePhone": "800006177"
+    },
+    "birthday": "1997-21-02",
+    "ip": "43.125.85.215",
+    "foo": "bar",
+    "profile": {
+        "about": "East think plant member along wrong important. Ability election almost site. Debate rock hundred special.\nThan member her thought bring know event. Wide base quality also act now her.",
+        "bio": "Weight decade report notice paper physical attack trial."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
