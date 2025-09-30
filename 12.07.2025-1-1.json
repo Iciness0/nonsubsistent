@@ -1,0 +1,25 @@
+{
+    "name": "Mallory Steele",
+    "age": 15,
+    "address": {
+        "street": "Melissa Underpass",
+        "city": "North Michelleport",
+        "state": "Kansas",
+        "zip": "96509"
+    },
+    "contact": {
+        "phone": "784-445-8914",
+        "servicePhone": "800857102"
+    },
+    "birthday": "2010-05-08",
+    "ip": "64.41.185.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick continue participant kid pretty religious. Shoulder enjoy candidate take.",
+        "bio": "Better every back set one water. Computer debate fight issue either air. Language front beyond every detail across.\nBegin cost name close bad crime. Attack case process well maybe she sell."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
