@@ -1,0 +1,25 @@
+{
+    "name": "Colin Monroe",
+    "age": 91,
+    "address": {
+        "street": "Frost Junctions",
+        "city": "Loweshire",
+        "state": "Michigan",
+        "zip": "53889"
+    },
+    "contact": {
+        "phone": "+1-232-632-6220x7365",
+        "servicePhone": "800747868"
+    },
+    "birthday": "1934-01-07",
+    "ip": "100.198.183.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Score less very common. About that same main artist news.\nCustomer one program officer school. Think leave method win.",
+        "bio": "Side bag four teach provide international north energy. Total brother his increase these at. Those father capital model big."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
