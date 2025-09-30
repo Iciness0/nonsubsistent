@@ -1,0 +1,25 @@
+{
+    "name": "Laura Johnson",
+    "age": 9,
+    "address": {
+        "street": "Alexander Crest",
+        "city": "Lake Brandi",
+        "state": "North Carolina",
+        "zip": "68561"
+    },
+    "contact": {
+        "phone": "735-703-2453",
+        "servicePhone": "800232858"
+    },
+    "birthday": "2016-28-02",
+    "ip": "7.87.150.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Want pass quality surface.\nThink right safe Congress when. Involve surface particular production benefit visit cut much.",
+        "bio": "Stage quickly we issue force actually street. Who approach huge marriage health many. Institution tough land start before hold lead. Page off even blood woman."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
