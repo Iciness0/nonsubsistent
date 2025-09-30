@@ -1,0 +1,25 @@
+{
+    "name": "Sheryl Shepherd",
+    "age": 98,
+    "address": {
+        "street": "Garcia Canyon",
+        "city": "South Brent",
+        "state": "Michigan",
+        "zip": "76709"
+    },
+    "contact": {
+        "phone": "(365)820-6454",
+        "servicePhone": "800176325"
+    },
+    "birthday": "1927-10-04",
+    "ip": "132.210.186.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago team word attention say interview work. Outside toward difference.\nBox purpose course walk agent. Blood find authority a.",
+        "bio": "Sign allow your eat learn put least. Enjoy cell level floor well. Son every wear allow involve cultural itself.\nComputer fly entire four thousand begin southern."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tricia Carpenter DDS",
+    "age": 71,
+    "address": {
+        "street": "Zachary Square",
+        "city": "New Janetbury",
+        "state": "Maryland",
+        "zip": "09443"
+    },
+    "contact": {
+        "phone": "6046894620",
+        "servicePhone": "800752883"
+    },
+    "birthday": "1954-21-05",
+    "ip": "88.137.99.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Key safe quickly week form. Exactly same easy.\nBetween everybody follow probably camera. Probably cold his subject such girl.",
+        "bio": "With camera hear note what suddenly. Political then decision. Information real surface skill remain. Pull left religious long movement else test as."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

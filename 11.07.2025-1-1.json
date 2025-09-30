@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Dyer",
+    "age": 34,
+    "address": {
+        "street": "Brown Extension",
+        "city": "Brandonhaven",
+        "state": "Pennsylvania",
+        "zip": "92839"
+    },
+    "contact": {
+        "phone": "(596)285-5290x710",
+        "servicePhone": "800083985"
+    },
+    "birthday": "1991-11-11",
+    "ip": "193.75.90.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Use remember take data. I billion pick go race until.\nLater wrong reveal west. Add guy tax black.",
+        "bio": "Attorney force against senior operation social. From structure even improve remember nothing type allow."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
