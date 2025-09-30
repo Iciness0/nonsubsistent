@@ -1,0 +1,25 @@
+{
+    "name": "Johnny Miles",
+    "age": 108,
+    "address": {
+        "street": "Robin Court",
+        "city": "Feliciabury",
+        "state": "Alaska",
+        "zip": "88514"
+    },
+    "contact": {
+        "phone": "(205)201-2536x9369",
+        "servicePhone": "800014191"
+    },
+    "birthday": "1917-24-03",
+    "ip": "149.31.138.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone side almost method rule word. Worker reality use today. Increase affect career mother.\nConsider hot truth never fast success admit. Small test mission personal vote across water.",
+        "bio": "Cover piece hit sit current Mr eat national. Per age yourself person offer general contain everyone.\nServe low laugh. Tree between face hospital sense above evening. Money information though."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
