@@ -1,0 +1,25 @@
+{
+    "name": "Adam Armstrong",
+    "age": 65,
+    "address": {
+        "street": "Fernandez Manor",
+        "city": "East Vanessa",
+        "state": "New Hampshire",
+        "zip": "87821"
+    },
+    "contact": {
+        "phone": "331-939-8271",
+        "servicePhone": "800492941"
+    },
+    "birthday": "1960-01-11",
+    "ip": "47.124.151.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy perform crime mention control yard although. Raise wish great.",
+        "bio": "Better garden factor race one then.\nFast stand carry. Simply institution marriage color east let would who.\nNature field compare letter. Worry enough write last player.\nMention bank better."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}

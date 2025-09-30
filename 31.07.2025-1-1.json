@@ -1,0 +1,25 @@
+{
+    "name": "Paul Mccullough",
+    "age": 20,
+    "address": {
+        "street": "Sophia Branch",
+        "city": "New Jacob",
+        "state": "Alabama",
+        "zip": "14039"
+    },
+    "contact": {
+        "phone": "855-959-7759",
+        "servicePhone": "800332598"
+    },
+    "birthday": "2005-24-11",
+    "ip": "5.148.109.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary character drive citizen care painting media. Natural environmental pressure relate magazine former out.\nHuge artist so wait.",
+        "bio": "Modern understand pattern outside. Policy far address meet save responsibility. Write century newspaper staff one."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
