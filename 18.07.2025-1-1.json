@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Cline",
+    "age": 62,
+    "address": {
+        "street": "Nicholas Burg",
+        "city": "North Annamouth",
+        "state": "Wisconsin",
+        "zip": "89256"
+    },
+    "contact": {
+        "phone": "+1-226-384-3098",
+        "servicePhone": "800705434"
+    },
+    "birthday": "1963-27-10",
+    "ip": "6.125.243.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Dream rest not those whatever quality picture. Standard station hit real involve us four.",
+        "bio": "Cost mission where relate commercial cut fall begin. Area PM event nor safe.\nFight common open others. Catch throughout state skill trade toward party stage."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

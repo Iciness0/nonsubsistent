@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Scott",
+    "age": 66,
+    "address": {
+        "street": "Lauren Hollow",
+        "city": "Turnerview",
+        "state": "Idaho",
+        "zip": "36491"
+    },
+    "contact": {
+        "phone": "9174851646",
+        "servicePhone": "800638222"
+    },
+    "birthday": "1959-20-06",
+    "ip": "170.68.182.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Per reach someone stage leave reveal total. Usually agreement detail day. Gun capital Democrat information baby my fight.",
+        "bio": "Better moment site member source learn. Analysis make region data.\nHim third lawyer two real. Turn sing pressure design doctor training assume. Base measure prepare."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
