@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Vazquez MD",
+    "age": 22,
+    "address": {
+        "street": "Mark Crescent",
+        "city": "Port Rebecca",
+        "state": "West Virginia",
+        "zip": "60396"
+    },
+    "contact": {
+        "phone": "8718724046",
+        "servicePhone": "800368409"
+    },
+    "birthday": "2003-12-06",
+    "ip": "120.132.180.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Us project son effect including. Answer strong even sit ground ago. Analysis experience game according throughout discussion edge.",
+        "bio": "Mention play president carry. Source more morning then team interest. Here color politics.\nRock look hard political among citizen play. Manage morning one light along smile."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}

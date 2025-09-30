@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Thompson",
+    "age": 94,
+    "address": {
+        "street": "Beverly Green",
+        "city": "Port Jessica",
+        "state": "Oklahoma",
+        "zip": "54351"
+    },
+    "contact": {
+        "phone": "602-600-1912",
+        "servicePhone": "800183995"
+    },
+    "birthday": "1931-01-09",
+    "ip": "9.155.90.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh live agreement during myself year. Everyone among church. Professional interesting see.",
+        "bio": "Concern future Republican. Budget national her as.\nMarket board civil reality the. Staff east stuff we key.\nNot short investment herself least. Significant grow simple two soon."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
